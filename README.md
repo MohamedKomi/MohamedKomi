@@ -14,7 +14,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, Flutter or anything related to Mobile development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://github.com/MohamedKomi to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://github.com/MohamedKomi/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
